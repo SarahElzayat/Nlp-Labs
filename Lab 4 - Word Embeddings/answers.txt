@@ -1,0 +1,45 @@
+
+Student 1: Ahmed Sayed Sayed Madbouly
+Student 2: Sarah Mohamed Hosam Hassan
+
+Q1:
+
+
+
+
+Q2:
+
+Write Your answer here
+
+
+Predicted Country:
+Egypt
+
+Predicted Similarity:
+0.7626820802688599
+
+Q3:
+
+Yes
+
+
+Q4:
+
+yes make sinse because the range of the cosine similarity is [-1,1] and the similarity is 0.762682,
+it is close to 1 so it make sense to be heigh similarity.
+it also mean that the similarity between egypt and cairo is close to the similarity between greece and athens
+if we follow the relation egypt - cairo = greece - athens , we find that it is logicall to give us heigh similarity between (egypt,cairo) and (greece,greece - athens + cairo)
+
+
+Computed Accuracy:
+0.9192082407594425
+
+Q5:
+
+Type Yes or No
+
+
+Q6:
+
+Type your answer here
+
