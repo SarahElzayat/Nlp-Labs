@@ -4,12 +4,12 @@ Student 2: Sarah Mohamed Hosam Hassan
 
 Q1:
 
-
+the vocab size of the word embeddings is 243 words
 
 
 Q2:
 
-Write Your answer here
+the number of dimensions of the word embeddings is 300
 
 
 Predicted Country:
@@ -20,7 +20,7 @@ Predicted Similarity:
 
 Q3:
 
-Yes
+Yes, it is what i expected because the relation between greece and athens is the same relation between egypt and cairo
 
 
 Q4:
@@ -36,10 +36,13 @@ Computed Accuracy:
 
 Q5:
 
-Type Yes or No
+Yes
 
 
 Q6:
 
-Type your answer here
+the plot above illustrate the relation between the words in the list, the words that have the same meaning are close to each other
+due to the fact that they have the same context and the words that have different meaning are far from each other
+
+due to Pca we can reduce the dimension of the data to 2 dimensions and plot it to see the relation between the words, the 2 out dimension will be the most important dimensions that have the most variance in the data
 
